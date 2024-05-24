@@ -1,3 +1,5 @@
+package com.gioyis.miprograma.modelos;
+
 import java.util.Scanner;
 
 public class ConvertirMoneda extends Moneda {

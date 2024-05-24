@@ -1,3 +1,9 @@
+package com.gioyis.miprograma.principal;
+
+import com.gioyis.miprograma.apiconversor.ConfigApi;
+import com.gioyis.miprograma.modelos.ConvertirMoneda;
+import com.gioyis.miprograma.modelos.Moneda;
+
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;

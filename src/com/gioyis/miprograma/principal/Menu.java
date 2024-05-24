@@ -1,3 +1,5 @@
+package com.gioyis.miprograma.principal;
+
 public class Menu {
 
     private String menu = """

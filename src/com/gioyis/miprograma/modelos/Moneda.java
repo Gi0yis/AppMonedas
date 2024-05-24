@@ -1,3 +1,7 @@
+package com.gioyis.miprograma.modelos;
+
+import com.gioyis.miprograma.apiconversor.MiMoneda;
+
 public class Moneda {
     private String abreviaturaMoneda;
     private String abreviaturaSegundaMoneda;
@@ -43,7 +47,7 @@ public class Moneda {
 
     @Override
     public String toString() {
-        return "Moneda{" +
+        return "com.gioyis.miprograma.principal.modelos.com.gioyis.miprograma.modelos.Moneda{" +
                 "abreviaturaMoneda='" + abreviaturaMoneda + '\'' +
                 ", abreviaturaSegundaMoneda='" + abreviaturaSegundaMoneda + '\'' +
                 ", cantidad=" + cantidad +
